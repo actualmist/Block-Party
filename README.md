@@ -6,7 +6,11 @@ side jobs together with up to four players.
 ## Download
 
 Get **BlockParty.exe** from the [latest release](https://github.com/actualmist/Block-Party/releases/latest).
-That one file is the whole thing. Put it anywhere and open it.
+That one file is all you download. Put it anywhere and open it.
+
+- The first time you open a release, it downloads Block Party's game files
+  (about 6 MB, from the same release) and checks them against a checksum built
+  into the exe. Files that don't match are not used.
 
 - It finds your San Andreas folder (Steam or retail). If it doesn't, choose the
   folder under Settings.
@@ -49,7 +53,8 @@ Block Party is built on these projects. Their licences are in the
 - [Open Limit Adjuster](https://github.com/ThirteenAG/III.VC.SA.LimitAdjuster) (MIT), installed unmodified with a few
   settings changed (peds, vehicles and the script space stay at the game's own sizes).
 - [ENet](http://enet.bespin.org/) (MIT), [MinHook](https://github.com/TsudaKageyu/minhook) (BSD-2), [Font Awesome](https://fontawesome.com/) (OFL/MIT).
-- [Inter](https://github.com/rsms/inter) by The Inter Project Authors (SIL OFL 1.1): the launcher's text. The tagline
+- [Inter](https://github.com/rsms/inter) by The Inter Project Authors (SIL OFL 1.1): the launcher's text, with
+  [IBM Plex Mono](https://github.com/IBM/plex) by IBM (SIL OFL 1.1) for invite codes and builds. The tagline
   is lettered in Pricedown by [Typodermic Fonts](https://typodermicfonts.com/) (an image; the font isn't included).
 
 Grand Theft Auto San Andreas is a trademark of Take-Two Interactive. Block Party
