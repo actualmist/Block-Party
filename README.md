@@ -5,7 +5,7 @@ side jobs together with up to four players.
 
 ## Download
 
-Get **BlockParty.exe** from the [latest release](https://github.com/RinsedGaming/Block-Party/releases/latest).
+Get **BlockParty.exe** from the [latest release](https://github.com/actualmist/Block-Party/releases/latest).
 That one file is the whole thing. Put it anywhere and open it.
 
 - It finds your San Andreas folder (Steam or retail). If it doesn't, choose the
